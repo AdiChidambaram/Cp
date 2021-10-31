@@ -1,0 +1,13 @@
+h3{
+    color: black;
+    font-family: cursive;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 10px dashed ghostwhite;
+}
+   
